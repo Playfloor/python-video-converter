@@ -1,5 +1,5 @@
-# Video Converter
-
+# PVC - Python Video Converter
+ 
 [![Build Status](https://travis-ci.org/senko/python-video-converter.png?branch=master)](https://travis-ci.org/senko/python-video-converter)
 
 Video Converter is a Python module for converting video files from one format
